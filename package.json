@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/bLittle1996/muse-dl/issues"
   },
-  "homepage": "https://github.com/bLittle1996/muse-dl#readme"
+  "homepage": "https://github.com/bLittle1996/muse-dl#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
 }

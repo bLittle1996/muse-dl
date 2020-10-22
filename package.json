@@ -1,0 +1,29 @@
+{
+  "name": "muse-dl",
+  "version": "1.0.0",
+  "description": "A browser extension to download PDFs of sheetmusic from musescore.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bLittle1996/muse-dl.git"
+  },
+  "keywords": [
+    "sheet",
+    "music",
+    "browser",
+    "extension",
+    "sheetmusic",
+    "download",
+    "pdf",
+    "musescore"
+  ],
+  "author": "Ben Littleton <b.little1996@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bLittle1996/muse-dl/issues"
+  },
+  "homepage": "https://github.com/bLittle1996/muse-dl#readme"
+}

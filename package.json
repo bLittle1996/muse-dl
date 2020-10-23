@@ -2,11 +2,11 @@
   "name": "muse-dl",
   "version": "1.0.0",
   "description": "A browser extension to download PDFs of sheetmusic from musescore.com",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsc --watch",
-    "build": "tsc"
+    "build": "tsc",
+    "clean": "rm -rf ./dist"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/bLittle1996/muse-dl#readme",
   "devDependencies": {
+    "@types/chrome": "^0.0.125",
     "typescript": "^4.0.3"
   }
 }

@@ -8,11 +8,11 @@
     ],
     "background": {
         "scripts": [
-            "index.js"
+            "extension/index.js"
         ],
         "persistent": false
     },
     "page_action": {
-        "default_popup": "ui/index.html"
+        "default_popup": "popups/index.html"
     }
 }

@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsc --watch",
     "build": "npm run clean && tsc",
-    "clean": "rm -rf ./extension/**/*.{js,map}"
+    "clean": "rm -rf ./extension/**/*.js ./extension/**/*.js.map ./extension/**/*.d.ts ./extension/**/*.d.ts.map"
   },
   "repository": {
     "type": "git",
